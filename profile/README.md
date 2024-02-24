@@ -1,3 +1,5 @@
 # Fadeaway
 
-A full-stack framework for building new experiences powered by large language models.
+A teachable browser built for teams.
+
+Interested in the intersection of web browsers and language models? [Get in touch](dev@fadeaway.com)!
